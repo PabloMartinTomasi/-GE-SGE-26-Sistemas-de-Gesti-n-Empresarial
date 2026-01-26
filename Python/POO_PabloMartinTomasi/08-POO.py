@@ -50,3 +50,32 @@ persona1.set_edad(edad)
 
 print(f"\nDatos de {persona1.get_nombre()}:\n{persona1.mostrar()}")
 print(f"\n{persona1.get_nombre()}, {persona1.es_mayor_de_edad()}")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
